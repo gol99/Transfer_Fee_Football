@@ -13,7 +13,6 @@ For all data sources, except the FIFA 19 dataset from kaggle, I had to use websc
 - [`pandas`](https://pandas.pydata.org/docs/)
 - [`numpy`](https://numpy.org/doc/1.20/)
 - [`statsmodels`](https://www.statsmodels.org/stable/index.html)
-- [`sklearn`](https://scikit-learn.org/stable/)
 - [`BeatifulSoup`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [`requests`](https://docs.python-requests.org/en/master/)
 - [`difflib`](https://docs.python.org/3/library/difflib.html)
