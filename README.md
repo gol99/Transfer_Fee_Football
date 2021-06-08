@@ -19,8 +19,8 @@ For all data sources, except the FIFA 19 dataset from kaggle, I had to use websc
 - [`sportsipy.fb.roster`](https://sportsreference.readthedocs.io/en/stable/fb.html)
 ## How to run
 There are several jupyter notebooks in this repository. All notebooks, except *statistical_analysis.ipynb*, are notebooks where I used webscraping to get the data from the sources mentioned in [Data used](#data-used). Since a webrequest needs to be created for every player, running these notebooks takes a while, which is why I would **not** recommend running them. Instead, I have uploaded all datasets you get from these notebooks into the repository and you can just run the *statistical_analysis.ipynb*. However, if you want to also run the other notebooks, you need to run them in the following order:
-1. Transfer.ipynb
-2. stats_tm.ipynb
-3. FBref.ipynb
-4. Contracts.ipynb
-5. Statistical_Analysis.ipynb
+1. Transfer.ipynb <br /> *To get transfer fees*
+2. stats_tm.ipynb <br /> *To get transfermarkt data*
+3. FBref.ipynb <br /> *To get detailed football stats*
+4. Contracts.ipynb <br /> *To get Contract lengths*
+5. Statistical_Analysis.ipynb <br /> *To run the Analysis*
