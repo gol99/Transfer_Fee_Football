@@ -8,7 +8,7 @@ For this project I used the following data sources:
 - A FIFA 19 dataset from [kaggle](https://www.kaggle.com/karangadiya/fifa19) to get the contract length of the player at the time of the transfer
 - [Fifaindex.com](https://www.fifaindex.com/de/) to get missing contract length values
 ## Methods
-For all data sources, except the FIFA 19 dataset from kaggle, I had to use webscraping to get the data. I then used different statistical methods to analyse the relationship.
+For all data sources, except the FIFA 19 dataset from kaggle, I had to use webscraping to get the data. I then made different OLS regressions to analyse the relationships.
 ## Packages needed
 - [`pandas`](https://pandas.pydata.org/docs/)
 - [`numpy`](https://numpy.org/doc/1.20/)
